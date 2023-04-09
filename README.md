@@ -1,1 +1,1 @@
-# Livestock-Health-Monitoring-A.I
+# Livestock Health Monitoring A.I
